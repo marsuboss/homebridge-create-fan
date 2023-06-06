@@ -1,16 +1,16 @@
 {
   "private": false,
-  "displayName": "Hombridge Create Ceiling Fan",
-  "name": "homebridge-create-ceiling-fan",
-  "version": "0.0.34",
+  "displayName": "Hombridge Create Ceiling Fan Toto",
+  "name": "homebridge-create-ceiling-fan-toto",
+  "version": "0.0.1",
   "description": "Free the full potential of your ceiling fan with Homebridge",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/moifort/homebridge-create-fan.git"
+    "url": "https://github.com/marsuboss/homebridge-create-fan.git"
   },
   "bugs": {
-    "url": "https://github.com/moifort/homebridge-create-fan/issues"
+    "url": "https://github.com/marsuboss/homebridge-create-fan/issues"
   },
   "engines": {
     "node": ">=14.18.1",
